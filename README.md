@@ -1,4 +1,4 @@
-Social Media app built using React, TypeScript, Clerk, Shadcn, and Next.js
+Social Media app built using React, TypeScript, Clerk, Shadcn, Prisma, and Next.js
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
